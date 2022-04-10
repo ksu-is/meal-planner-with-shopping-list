@@ -1,1 +1,2 @@
 # meal-planner-with-shopping-list
+Every few weeks I get in a rut feeling like we eat the same food all the time or I can't think of what to cook. This app will allow me to plan dinners and add them to my calendar so I can easily go back for ideas on things to cook again as well as letting my family know what I plan to cook for the week. I am adding a shopping list feature to help generate a shopping list for the planned dinners for the week. 
